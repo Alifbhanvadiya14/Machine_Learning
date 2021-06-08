@@ -5,7 +5,14 @@ Dataset Link: https://www.kaggle.com/itsmesunil/bank-loan-modelling
 Models Used :
   
       Logistic Regresssion
-      K-Nearest Neighbors(KNN)
       Random Forest
       Decision Tree
+      
+Libraries Used :
+
+      Pandas - for Data Analysis
+      Numpy - for Numerical Calculations
+      Matplotlib  - for ploting Charts
+      Seaborn - for ploting Charts
+      Scikit Learn - for Preprocessing and training models
 
